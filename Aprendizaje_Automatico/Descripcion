@@ -1,0 +1,3 @@
+Estas prácticas consisten en la creación de modelos capaces de predecir o clasificar unos datos propuestos.
+La primera práctica consistía en dos partes, una de predicción y otra de clasificación. Para entrenar el modelo de predicción se utilizan los datos de wind_ava.csv.gz y se predicen y comprueban las predicciones con wind_comp.csv.gz.
+La segunda práctica se centraba en la parte de clustering, generando una clasificación sobre datos de diferentes estrellas.
